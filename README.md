@@ -45,3 +45,37 @@ This exercise was about print a message in jshell from your terminal.
 
 ![Alt text](http://i.imgur.com/8cQ1oYh.png?raw=true "jshell")
 
+
+**Exercise 3**
+This exercise was about present our family using variables.
+
+1. Chack the rigth java version with `java -version`. In this case we used 11 
+2. Go to the dyrectory in which is this repository and add this directory `MyFamily\out\artifacts\MyFamily_jar`. For this case we use the nex command `cd C:\Users\m.manjarrez.avila\JavaBasico-MMA\MyFamily\out\artifacts\MyFamily_jar`
+3. Finally run `java -jar MyFamily.jar`
+4. You can open the code from *MyFamily\src*
+
+**Exercise 3 Output**
+
+![Alt text](http://i.imgur.com/tTDDiuk.png?raw=true "variables")
+
+
+**Exercise 4**
+This exercise was about casting.
+
+1. Chack the rigth java version with `java -version`. In this case we used 11 
+2. Go to thedyrectory in which is this repository and add this directory `Casting\out\artifacts\Casting_jar`. For this case we use the nex command `cd  C:\Users\m.manjarrez.avila\JavaBasico-MMA\Casting\out\artifacts\Casting_jar`
+3. Finally run `java -jar Casting.jar`
+4. You can open the code from *Casting\src*
+
+**Exercise 4 Output**
+
+![Alt text](http://i.imgur.com/Psnb4ls.png?raw=true "casting")
+
+**Exercise 4**
+In this exercise we were ask to esplain how you would distribute and create a production environment for a program compiled with version 9 of Java.
+
+1. The JDKs in which it will be compiled must be downloaded
+2. You have to configure the JAVA_HOME depending on the version that will be used
+3. Finally, you could make code changes from .java files and you should not have any issues
+
+
