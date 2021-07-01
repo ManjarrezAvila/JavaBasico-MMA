@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this course we analyzed a problem about the adoption system of pets. It was graphed as a uml diagram. This allowed us to developed it on java using the four pillars of OOP: abstraction, inheritance, encapsulation, and polymorphism, in five challenges.
+In this course we learn how to use IntelliJ IDEA to develop a few classes in Java SE (Standar edition) and its programming logic.
 
 ## Getting Started
 
